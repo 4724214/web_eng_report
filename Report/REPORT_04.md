@@ -45,3 +45,5 @@ $ tsc --noEmit
 $ tsx src/index.ts
 これはテンプレートリテラルです。Web Engineering、2
 ```
+
+constとletの違いは、constは再代入不可（定数）でletは再代入可能
